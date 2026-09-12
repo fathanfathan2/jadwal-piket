@@ -14,7 +14,7 @@
             @csrf
             <div class="flex-1">
                 <label class="block text-sm font-semibold mb-2">Nama Siswa:</label>
-                <input type="text" name="nama_siswa" placeholder="Misal: Yukafii, Billy..." required class="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+                <input type="text" name="nama_siswa" placeholder="Nama Siswa" required class="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
             </div>
             
             <div class="flex-1">
